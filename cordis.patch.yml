@@ -1,0 +1,3 @@
+- insert:
+    - id: boot-splash
+      name: dsh-boot-splash
